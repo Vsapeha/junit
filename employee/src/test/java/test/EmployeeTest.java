@@ -1,3 +1,5 @@
+package test;
+
 import objects.Employee;
 import org.junit.*;
 import pages.LoginPage;
